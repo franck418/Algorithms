@@ -84,7 +84,7 @@ public class Merge {
 
     private static boolean isSorted(Comparable[] a){
 
-        for(int i=0;i<a.length;i++){
+        for(int i=0;i<a.length-1;i++){
 
             if(less(a[i+1],a[i]))
                 return false;
