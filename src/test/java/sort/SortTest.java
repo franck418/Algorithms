@@ -3,8 +3,10 @@ package sort;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by Franck on 2018/5/15.
+/***
+ * author:kane
+ * date:2018-08
+ * 各种排序的单元测试
  */
 public class SortTest {
 
